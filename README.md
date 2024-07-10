@@ -14,7 +14,7 @@
   <a href="https://instagram.com/jasur_hasanov_10">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="Bu instagram badges">
   </a>
-  <a href="[https://facebook.com/shohabbosdev](https://www.facebook.com/profile.php?id=61562292601811&mibextid=ZbWKwL)">
+  <a href="https://www.facebook.com/profile.php?id=61562292601811&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt="Bu facebook badges">
   </a>
   <a href="https://x.com/Jasur_2004">
